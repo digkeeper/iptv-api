@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-24 18:28:23,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-05-25 06:27:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -650,6 +650,15 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 第一财经,https://stream1.freetv.fun/di-yi-cai-jing-3.m3u8
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-11.m3u8
 都市剧场,http://222.179.42.129:8181/hls1.m3u8
+都市剧场,http://183.64.174.171:40123/ch1.m3u8
+都市剧场,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+都市剧场,http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+都市剧场,http://dassby.qqff.top:99/live/都市剧场/index.m3u8
+都市剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
+都市剧场,rtsp://115.153.254.81/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
+都市剧场,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
+都市剧场,rtsp://115.153.212.72/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
+都市剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
 
 ☘️福建频道,#genre#
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
@@ -657,7 +666,6 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
 厦门卫视,http://goo.bkpcp.top/mg/xmws
 厦门卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
@@ -673,7 +681,6 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 漳州新闻综合,https://stream1.freetv.fun/zhang-zhou-xin-wen-zong-he-3.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-1.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-2.m3u8
@@ -877,9 +884,9 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/8888888
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-7.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-3.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-7.m3u8
