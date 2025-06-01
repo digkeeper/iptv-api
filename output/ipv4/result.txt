@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-01 06:24:54,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-06-01 18:27:39,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 📺央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
@@ -24,7 +24,6 @@ CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
@@ -53,19 +52,19 @@ CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
 广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
 天元围棋,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8487&tk=a0c4f6cfaba3
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
 🪁动画频道,#genre#
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
