@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2025-06-11 18:30:11,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-06-12 06:26:51,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-5,http://121.17.146.34:50003/hls/5/index.m3u8
-CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
+CCTV-11,http://121.17.146.34:50003/hls/11/index.m3u8
+CCTV-11,http://101.66.194.35:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-12,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-12,http://121.17.146.34:50003/hls/12/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -22,17 +24,20 @@ CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+安徽卫视,http://113.195.8.230:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+贵州卫视,http://121.17.146.34:50003/hls/51/index.m3u8
+河北卫视,http://121.17.146.34:50003/hls/22/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 内蒙古卫视,https://hyf000.eu.org/80947108/NMGWS
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+西藏卫视,http://122.246.75.199:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
@@ -52,9 +57,10 @@ CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 
 🏀体育频道,#genre#
 广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
@@ -63,7 +69,6 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🪁动画频道,#genre#
-新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -73,10 +78,10 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
+新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+金鹰卡通,http://122.246.75.199:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 经典动漫,http://61.133.118.228:5001/yy/24180320
 蜡笔小新,http://home.kuaidi521.com:35455/bilibili/30837590
