@@ -1,25 +1,12 @@
 🕘️更新时间,#genre#
-2025-10-06 18:30:13,http://112.27.235.94:8000/hls/1/index.m3u8
+2025-10-07 06:25:49,http://112.27.235.94:8000/hls/2/index.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV-2,http://112.27.235.94:8000/hls/2/index.m3u8
-CCTV-3,http://112.27.235.94:8000/hls/3/index.m3u8
+CCTV-2,http://1.197.84.170:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://112.27.235.94:8000/hls/5/index.m3u8
-CCTV-5+,http://112.27.235.94:8000/hls/6/index.m3u8
-CCTV-6,http://112.27.235.94:8000/hls/7/index.m3u8
-CCTV-7,http://112.27.235.94:8000/hls/8/index.m3u8
-CCTV-8,http://112.27.235.94:8000/hls/9/index.m3u8
-CCTV-8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://112.27.235.94:8000/hls/10/index.m3u8
-CCTV-10,http://112.27.235.94:8000/hls/11/index.m3u8
-CCTV-11,http://112.27.235.94:8000/hls/12/index.m3u8
-CCTV-12,http://112.27.235.94:8000/hls/13/index.m3u8
-CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://112.27.235.94:8000/hls/14/index.m3u8
-CCTV-14,http://112.27.235.94:8000/hls/15/index.m3u8
-CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
+CCTV-4,http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://1.195.131.143:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -35,23 +22,12 @@ CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
-湖北卫视,http://112.27.235.94:8000/hls/41/index.m3u8
-黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
-安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
-陕西卫视,http://112.27.235.94:8000/hls/43/index.m3u8
-四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
-深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8
-天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
-云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8
+山西卫视,http://sh.lnott.top:880/dx39.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
@@ -68,10 +44,10 @@ CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 JJ斗地主,http://211.101.246.236:35455/huya/14079954
@@ -92,5 +68,8 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+优漫卡通,http://106.118.70.125:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://106.118.70.125:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://1.195.131.143:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
