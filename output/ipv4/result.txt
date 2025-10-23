@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-23 18:30:33,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-24 06:26:08,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
-CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
-CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -22,27 +19,14 @@ CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
-广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
-贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
-河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
-宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8
-青海卫视,http://1.31.14.70:54321/hls/43/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://1.31.14.70:54321/hls/46/index.m3u8
-深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
-西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8
-新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
-云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
@@ -56,9 +40,11 @@ CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
