@@ -1,18 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-09 18:34:32,http://play.kankanlive.com/live/1698234869325962.m3u8
+2025-12-10 06:27:21,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
-CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
-CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8
-CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
-CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8
-CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8
-CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
-CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
-CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
-CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -50,9 +39,10 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 
 🏀体育频道,#genre#
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
@@ -67,6 +57,5 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://101.66.198.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
