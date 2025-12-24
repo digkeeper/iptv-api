@@ -1,7 +1,18 @@
 🕘️更新时间,#genre#
-2025-12-24 18:30:23,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+2025-12-25 06:28:15,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
+CCTV-2,http://175.8.28.207:9999/tsfile/live/0002_1.m3u8
+CCTV-3,http://175.8.28.207:9999/tsfile/live/0003_1.m3u8
+CCTV-4,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8
+CCTV-5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8
+CCTV-6,http://175.8.28.207:9999/tsfile/live/0006_1.m3u8
+CCTV-8,http://175.8.28.207:9999/tsfile/live/0008_1.m3u8
+CCTV-9,http://175.8.28.207:9999/tsfile/live/0009_1.m3u8
+CCTV-10,http://175.8.28.207:9999/tsfile/live/0010_1.m3u8
+CCTV-11,http://175.8.28.207:9999/tsfile/live/0011_1.m3u8
+CCTV-12,http://175.8.28.207:9999/tsfile/live/0012_1.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
@@ -38,10 +49,11 @@
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
