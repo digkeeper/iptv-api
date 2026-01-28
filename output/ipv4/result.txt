@@ -1,3 +1,31 @@
 🕘️更新时间,#genre#
-2026-01-28 12:01:26,url
+2026-01-28 14:31:16,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1769626800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5d9388b078c87ac77a48664f5750e02d&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
+📺央视频道,#genre#
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1769626800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5d9388b078c87ac77a48664f5750e02d&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=32ed5b4a5280a2698d9fce178c66260b
+
+📡卫视频道,#genre#
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1769580021&sign=e6e8e487a7cdb416a391cfd485cf8c47
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=ba2772931769583473
+河南卫视,http://121.12.173.61/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ba584bf95e1c585ae18dd601badffc0e&wsTime=1769585794&wsSession=d3823e6e4200ef228ef6329a-176957380928966&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=c0df3924800224a01640be162a11f12e&txTime=6979DE47
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=c63ec24782814b1fa27955750953c9ee
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/p3sh8sV.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-fsILRY.m3u8
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+
+💰央视付费频道,#genre#
+
+🌊港·澳·台,#genre#
+凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+
+🎬电影频道,#genre#
+CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+
+🏀体育频道,#genre#
+
+🪁动画频道,#genre#
+优漫卡通,rtmp://ivi.bupt.edu.cn/livetv/ymkttv#http://by4.nty.tv189.cn/live/tm-jsymktty-800k.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
